@@ -1,2 +1,2 @@
 # RepositorioHenry
-Repositorio para ejercicios del pre-curso de henry mod 2
+Repositorio para ejercicios del pre-curso mod 2 de henry 
